@@ -8,7 +8,8 @@ All files are in the *.ipynb* format, and can be accessed with [Jupyter Notebook
 
 ## About SMOC
 
-SMOC is a stochastic circuit optimizer based on the NSGA-II genetic algorithm (GA) for Cadence Virtuoso, written in Python. This project is in development and it's current in a private repository. If you have the required permissions, you can access the SMOC repository [here](https://github.com/mdmfernandes/smoc). If you want to participate in the project, please contact the [author](#author).
+SMOC is a stochastic circuit optimizer based on the NSGA-II genetic algorithm (GA) for Cadence Virtuoso, written in Python.
+You can access the SMOC repository [here](https://github.com/mdmfernandes/smoc). Please feel free to participate in the project.
 
 ## Author
 
